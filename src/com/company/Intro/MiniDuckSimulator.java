@@ -1,4 +1,4 @@
-package com.company;
+package com.company.Intro;
 
 import com.company.Intro.Duck;
 import com.company.Intro.FlyRocketPowered;
